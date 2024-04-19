@@ -29,4 +29,4 @@ Acesse o [http://localhost:5000/#/](http://localhost:5000/#/) no navegador de pr
 
 Posteriormente, basta testar quaisquer rotas da API que desejar para gerenciar a sua taverna virtual. Cada rota tem sua devida descrição na documentação acessada.
 
-Não esqueça de estar com o backend rodando para que seja possível os testes do frontend. (https://github.com/gyomonteiro/MVP_PUCRJ_SPRINT_I_FRONT.git) 
+Confira o frontend desta aplicação: https://github.com/gyomonteiro/MVP_PUCRJ_SPRINT_I_FRONT.git
